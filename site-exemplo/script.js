@@ -15,4 +15,5 @@ function clicar() {
 function saiu() {
     area.style.color = 'yellow'
     area.style.background = 'black'
+    area.innerText = 'O mouse saiu!'
 }
