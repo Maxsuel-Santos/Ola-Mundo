@@ -11,3 +11,8 @@ function clicar() {
     area.style.color = 'green'
     area.innerText = 'Você clicou!'
 }
+
+function saiu() {
+    area.style.color = 'yellow'
+    area.style.background = 'black'
+}
