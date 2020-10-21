@@ -3,4 +3,5 @@
 
 Repositório criado durante uma aula ao vivo do curso em vídeo. 
 
-- 16/10/2020
+- *16/10/2020*
+    
